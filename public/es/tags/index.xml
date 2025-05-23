@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Lost in Steel</title>
+    <link>//localhost:1313/es/tags/</link>
+    <description>Recent content in Tags on Lost in Steel</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 18 May 2025 23:27:03 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acero</title>
+      <link>//localhost:1313/es/tags/acero/</link>
+      <pubDate>Sun, 18 May 2025 23:27:03 +0200</pubDate>
+      <guid>//localhost:1313/es/tags/acero/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Base Plate</title>
+      <link>//localhost:1313/es/tags/base-plate/</link>
+      <pubDate>Sun, 18 May 2025 23:27:03 +0200</pubDate>
+      <guid>//localhost:1313/es/tags/base-plate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Estructura</title>
+      <link>//localhost:1313/es/tags/estructura/</link>
+      <pubDate>Sun, 18 May 2025 23:27:03 +0200</pubDate>
+      <guid>//localhost:1313/es/tags/estructura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Placa Base</title>
+      <link>//localhost:1313/es/tags/placa-base/</link>
+      <pubDate>Sun, 18 May 2025 23:27:03 +0200</pubDate>
+      <guid>//localhost:1313/es/tags/placa-base/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soportes</title>
+      <link>//localhost:1313/es/tags/soportes/</link>
+      <pubDate>Sun, 18 May 2025 23:27:03 +0200</pubDate>
+      <guid>//localhost:1313/es/tags/soportes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Steel</title>
+      <link>//localhost:1313/es/tags/steel/</link>
+      <pubDate>Sun, 18 May 2025 23:27:03 +0200</pubDate>
+      <guid>//localhost:1313/es/tags/steel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Structure</title>
+      <link>//localhost:1313/es/tags/structure/</link>
+      <pubDate>Sun, 18 May 2025 23:27:03 +0200</pubDate>
+      <guid>//localhost:1313/es/tags/structure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Support</title>
+      <link>//localhost:1313/es/tags/support/</link>
+      <pubDate>Sun, 18 May 2025 23:27:03 +0200</pubDate>
+      <guid>//localhost:1313/es/tags/support/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

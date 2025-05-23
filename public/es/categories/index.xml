@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Lost in Steel</title>
+    <link>//localhost:1313/es/categories/</link>
+    <description>Recent content in Categories on Lost in Steel</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 18 May 2025 23:27:03 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estructuras De Acero</title>
+      <link>//localhost:1313/es/categories/estructuras-de-acero/</link>
+      <pubDate>Sun, 18 May 2025 23:27:03 +0200</pubDate>
+      <guid>//localhost:1313/es/categories/estructuras-de-acero/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Steel Structures</title>
+      <link>//localhost:1313/es/categories/steel-structures/</link>
+      <pubDate>Sun, 18 May 2025 23:27:03 +0200</pubDate>
+      <guid>//localhost:1313/es/categories/steel-structures/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

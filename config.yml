@@ -1,0 +1,156 @@
+baseURL: ""
+languageCode: en-us
+title: Lost in Steel
+theme: PaperMod
+
+defaultContentLanguage: "es"
+defaultContentLanguageInSubdir: false
+
+params:
+  defaultTheme: light
+  disableThemeToggle: true
+  displayFullLangName: true
+  goToTop: true
+  assets:
+    css:
+      - "css/extended/extra.css"
+  label:
+    icon: "img/logos/lostinsteel_logo.png"
+    iconHeight: 30
+    text: ""
+  socialIcons:
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/herrerom'
+    - name: github
+      url: 'https://github.com/mhs-engineering/mhs-engineering.github.io'
+    - name: email
+      url: 'mailto:mhs.engineering@protonmail.com'
+    - name: grabcad
+      url: 'https://grabcad.com/mhs.engineering-2'
+  comments: true
+  cover:
+    linkFUllImages: true  
+
+  ShareButtons: ["linkedin", "x", "facebook"]
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowPostThumbnails: true
+  ShowLanguageSwitcher: true
+
+languages:
+
+  en:
+    languageName: "🇬🇧"
+    weight: 2
+    taxonomies:
+      tag: tags
+      category: categories
+
+    menu:
+      main:
+        - identifier: home
+          name: Home
+          url: /
+          weight: 1
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 5
+        - identifier: categories
+          name: Categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
+        - identifier: archive
+          name: Archive
+          url: /archives/
+          weight: 30
+
+    params:
+      homeInfoParams:
+        Title: ‎ ![](/img/logos/lostinsteel_logo_cover.png)
+        Content: SIGN UP FOR THE NEWSLETTER | FAQ
+
+  es:
+    languageName: "🇪🇸"
+    weight: 1
+    taxonomies:
+      tag: tags
+      category: categories
+
+    menu:
+      main:
+        - identifier: inicio
+          name: Inicio
+          url: /
+          weight: 1
+        - identifier: search
+          name: Buscar
+          url: /search/
+          weight: 5
+        - identifier: categories
+          name: Categorías
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
+        - identifier: archive
+          name: Archivo
+          url: /archives/
+          weight: 30
+
+    params:
+      
+      homeInfoParams:
+        Title: ‎ ![](/img/logos/lostinsteel_logo_cover.png)
+        Content: SUSCRIBIRSE AL NEWSLETTER | FAQ
+              
+  
+  fr:
+    languageName: "🇫🇷"
+    weight: 3
+    taxonomies:
+      tag: tags
+      category: categories
+    menu:
+      main:
+        - identifier: accueil
+          name: Accueil
+          url: /
+          weight: 1
+        - identifier: search
+          name: Rechercher
+          url: /search/
+          weight: 5
+        - identifier: categories
+          name: Catégories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
+        - identifier: archive
+          name: Archive
+          url: /archives/
+          weight: 30
+
+    params:
+      homeInfoParams:
+        Title: ‎ ![](/img/logos/lostinsteel_logo_cover.png)
+        Content: ABONNEZ-VOUS À LA NEWSLETTER | FAQ
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+
