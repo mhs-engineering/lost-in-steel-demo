@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/mhs-engineering/lostinsteel.github.io
+	url = https://github.com/mhs-engineering/lost-in-steel.github.io
 	branch = main
