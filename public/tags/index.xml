@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Lost in Steel</title>
+    <link>https://lost-in-steel.github.io/tags/</link>
+    <description>Recent content in Tags on Lost in Steel</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 18 May 2025 23:27:03 +0200</lastBuildDate>
+    <atom:link href="https://lost-in-steel.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acero</title>
+      <link>https://lost-in-steel.github.io/tags/acero/</link>
+      <pubDate>Sun, 18 May 2025 23:27:03 +0200</pubDate>
+      <guid>https://lost-in-steel.github.io/tags/acero/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Estructura</title>
+      <link>https://lost-in-steel.github.io/tags/estructura/</link>
+      <pubDate>Sun, 18 May 2025 23:27:03 +0200</pubDate>
+      <guid>https://lost-in-steel.github.io/tags/estructura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Placa Base</title>
+      <link>https://lost-in-steel.github.io/tags/placa-base/</link>
+      <pubDate>Sun, 18 May 2025 23:27:03 +0200</pubDate>
+      <guid>https://lost-in-steel.github.io/tags/placa-base/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soportes</title>
+      <link>https://lost-in-steel.github.io/tags/soportes/</link>
+      <pubDate>Sun, 18 May 2025 23:27:03 +0200</pubDate>
+      <guid>https://lost-in-steel.github.io/tags/soportes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
