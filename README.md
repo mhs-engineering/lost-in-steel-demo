@@ -1,2 +1,2 @@
 # lost-in-steel-demo
-Blog sobre calculo de estrucuturas y temas relacionados.
+Blog sobre calculo de estructuras y temas relacionados.
